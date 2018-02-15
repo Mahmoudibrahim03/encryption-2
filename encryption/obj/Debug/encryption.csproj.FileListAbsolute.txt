@@ -1,0 +1,7 @@
+D:\Tasks\encryption\encryption\bin\Debug\encryption.exe.config
+D:\Tasks\encryption\encryption\bin\Debug\encryption.exe
+D:\Tasks\encryption\encryption\bin\Debug\encryption.pdb
+D:\Tasks\encryption\encryption\obj\Debug\encryption.csprojResolveAssemblyReference.cache
+D:\Tasks\encryption\encryption\obj\Debug\encryption.csproj.CoreCompileInputs.cache
+D:\Tasks\encryption\encryption\obj\Debug\encryption.exe
+D:\Tasks\encryption\encryption\obj\Debug\encryption.pdb
